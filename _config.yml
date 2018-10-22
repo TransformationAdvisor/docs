@@ -10,6 +10,8 @@ github_username:  jekyll
 downloadlink: download/microclimate-18.10.zip
 version: "18.10"
 
+future: true
+
 # Build settings
 markdown: kramdown
 theme: minima
